@@ -1,3 +1,6 @@
 # crff_vcs
 
-Making some edits online
+credit: 
+James Crichton
+
+
